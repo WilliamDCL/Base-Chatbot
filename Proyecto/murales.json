@@ -1,0 +1,128 @@
+[
+    {
+        "nombre": "Mural de la Historia",
+        "artista": "Juan Pérez",
+        "descripcion": "Este mural representa la historia de la ciudad de Tunja a lo largo de los siglos.",
+        "fecha": "2020",
+        "ubicacion": "Plaza Mayor, Tunja"
+    },
+    {
+        "nombre": "Mujer Territorio",
+        "artista": "Ela Rincón",
+        "descripcion": "Rinde homenaje a lo femenino de los paisajes culturales de este Territorio Sublime.",
+        "fecha": "2023",
+        "ubicacion": "Las nieves, Tunja"
+    },
+    {
+        "nombre": "Naturaleza Viva",
+        "artista": "Sofía Ramírez",
+        "descripcion": "Mural que celebra la flora y fauna de la región.",
+        "fecha": "2021",
+        "ubicacion": "Parque Pinzon, Tunja"
+    },
+    {
+        "nombre": "Cultura Andina",
+        "artista": "Carlos López",
+        "descripcion": "Representación de las tradiciones andinas en un mural vibrante.",
+        "fecha": "2018",
+        "ubicacion": "Barrio San Mateo, Tunja"
+    },
+    {
+        "nombre": "Rostros de la Ciudad",
+        "artista": "María Torres",
+        "descripcion": "Retratos de personas icónicas de Tunja.",
+        "fecha": "2022",
+        "ubicacion": "Calle 5, Tunja"
+    },
+    {
+        "nombre": "Energía Urbana",
+        "artista": "Javier Gómez",
+        "descripcion": "Un mural que captura la energía y el ritmo de la vida urbana.",
+        "fecha": "2023",
+        "ubicacion": "Avenida Central, Tunja"
+    },
+    {
+        "nombre": "Música en el Aire",
+        "artista": "Lucía Fernández",
+        "descripcion": "Mural que rinde homenaje a la música y sus influencias.",
+        "fecha": "2020",
+        "ubicacion": "Teatro Sucre, Tunja"
+    },
+    {
+        "nombre": "Cuentos de la Infancia",
+        "artista": "Diego Morales",
+        "descripcion": "Un mural lleno de personajes de cuentos infantiles.",
+        "fecha": "2019",
+        "ubicacion": "Escuela La Esperanza, Tunja"
+    },
+    {
+        "nombre": "Raíces y Alas",
+        "artista": "Claudia Salazar",
+        "descripcion": "Un mural que representa la conexión entre el pasado y el futuro.",
+        "fecha": "2021",
+        "ubicacion": "Parque de los Niños, Tunja"
+    },
+    {
+        "nombre": "Esperanza",
+        "artista": "Felipe Mendoza",
+        "descripcion": "Un mural optimista que refleja el futuro de la ciudad.",
+        "fecha": "2022",
+        "ubicacion": "Plaza de Bolívar, Tunja"
+    },
+    {
+        "nombre": "Tradiciones Vivas",
+        "artista": "Isabel Cruz",
+        "descripcion": "Mural que muestra las tradiciones y festividades de Tunja.",
+        "fecha": "2018",
+        "ubicacion": "Calle 12, Tunja"
+    },
+    {
+        "nombre": "Paz y Unión",
+        "artista": "Roberto Díaz",
+        "descripcion": "Un mural que promueve la paz y la unidad entre la comunidad.",
+        "fecha": "2020",
+        "ubicacion": "Plaza de Bolivar, Tunja"
+    },
+    {
+        "nombre": "Visiones Futuras",
+        "artista": "Natalia Ortega",
+        "descripcion": "Un mural que imagina cómo será Tunja en el futuro.",
+        "fecha": "2023",
+        "ubicacion": "Centro Cultural, Tunja"
+    },
+    {
+        "nombre": "Danza y Movimiento",
+        "artista": "Victor Huerta",
+        "descripcion": "Mural que celebra la danza y su diversidad.",
+        "fecha": "2019",
+        "ubicacion": "Plaza de las Artes, Tunja"
+    },
+    {
+        "nombre": "El Poder de la Mujer",
+        "artista": "Mariana Ríos",
+        "descripcion": "Un homenaje a las mujeres que han marcado la historia de Tunja.",
+        "fecha": "2021",
+        "ubicacion": "Calle del Comercio, Tunja"
+    },
+    {
+        "nombre": "Sueños de Colores",
+        "artista": "Hugo Valencia",
+        "descripcion": "Un mural vibrante que invita a soñar.",
+        "fecha": "2020",
+        "ubicacion": "Parque del Agua, Tunja"
+    },
+    {
+        "nombre": "Mujeres en la Historia",
+        "artista": "Sonia Martínez",
+        "descripcion": "Celebración de las mujeres que han hecho historia en la ciudad.",
+        "fecha": "2022",
+        "ubicacion": "Calle de la Libertad, Tunja"
+    },
+    {
+        "nombre": "Caminos de Esperanza",
+        "artista": "Alberto Pérez",
+        "descripcion": "Mural que refleja los sueños de la juventud.",
+        "fecha": "2023",
+        "ubicacion": "Calle 8, Tunja"
+    }
+]
